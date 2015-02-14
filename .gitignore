@@ -27,3 +27,31 @@
 *.i*86
 *.x86_64
 *.hex
+
+# Source Insight
+*.IAB
+*.IAD
+*.IMB
+*.IMD
+*.PFI
+*.PO
+*.PR
+*.PRI
+*.PS
+*.WK3
+*.SearchResults
+
+# MDK
+*.bak
+*.Administrator
+*.crf
+*.d
+*.lst
+*.axf
+*.htm
+*.lnp
+*.map
+*.sct
+*.dep
+*.txt
+*.ini
